@@ -1,0 +1,2 @@
+Bỏ ảnh của bạn vào thư mục này, đặt tên: 1.jpg, 2.jpg, 3.jpg, ... (càng nhiều càng đẹp, tối đa 40 ảnh).
+Ảnh số 1.jpg sẽ được dùng làm hình trái tim ghép (puzzle) ở thiệp lịch -> nên chọn ảnh đẹp nhất.
